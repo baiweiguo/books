@@ -23,5 +23,20 @@
     <ClInclude Include="LastKthList.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="ListLoop.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MergeSortedList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TestSubstructureInTree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

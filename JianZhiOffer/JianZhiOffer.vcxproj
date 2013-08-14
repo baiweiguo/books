@@ -80,6 +80,11 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LastKthList.h" />
+    <ClInclude Include="LinkList.h" />
+    <ClInclude Include="ListLoop.h" />
+    <ClInclude Include="MergeSortedList.h" />
+    <ClInclude Include="ReverseList.h" />
+    <ClInclude Include="TestSubstructureInTree.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
